@@ -7,5 +7,5 @@ password=input("enter your password: ")
 if password=="hassan":
     print("welcome " + name)
     
-else:
-    print("wrong password")
+else:    
+    print("hello my name is hassan nawaz")
